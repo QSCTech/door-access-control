@@ -6,6 +6,14 @@ Author: Senorsen <sen@senorsen.com>
 
 Started from 2014-07.
 
+## Installation
+
+First, copy `config.sample.h` to `config.h` and edit the configurations to fit your needs.
+
+Then, try `make`. Note: clang is needed, but you can replace clang to gcc in Makefile by your self.
+
+Just execute `./doorsend`, there would be a help message. Enjoy it!
+
 ## Copyright
 
 Copyright 2014, 2015 Senorsen (Zhang Sen) <sen@senorsen.com> 
